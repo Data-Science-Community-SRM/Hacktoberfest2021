@@ -1,4 +1,5 @@
-<p align="center"><img src="Hacktoberfest2020.png" width="75%"/></p>
+<p align="center"><img src="community-header.png" width="80%"/>
+<img src="Hacktoberfest2020.png" width="75%"/></p>
 
 <br>
 
