@@ -51,6 +51,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 - Associate each Pull Request with the required issue number.
 - Please provide relevant steps to use your codebase adding few extra lines of comments or commands to run would be helpful for others to follow along.
 
+
 ## Branch Policy
 
 - development: If you are making a contribution make sure to send your Pull Request to this branch. All developments goes in this branch.
@@ -64,6 +65,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 - If you report a bug please provide steps to reproduce the bug.
 - In case of changing the backend routes please submit an updated routes documentation for the same.
 - If there is an UI related change it would be great if you could attach a screenshot with the resultant changes so it is easier to review for the maintainers
+- Participants in Hacktoberfest represented 151 countries and thousands of unique skill sets. This program welcomes everyone already who’s already part of the open source         software community, and anyone who is interested in sectioning in.
 <h1> Maintainers </h1>
 
 <table align="center">
