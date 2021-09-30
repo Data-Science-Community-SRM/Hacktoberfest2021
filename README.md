@@ -1,5 +1,5 @@
 <p align="center"><img src="community-header.png" width="80%"/>
-<img src="Hacktoberfest2021.jpg" width="65%"/></p>
+<img src="Hacktoberfest2021.jpg" width="85%"/></p>
 
 <br>
 
