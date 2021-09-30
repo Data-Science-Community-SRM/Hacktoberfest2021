@@ -35,7 +35,6 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 - Polish you GitHub Skills.
 - Free swags and T-Shirts from Digital Ocean
 - Chance to get a tree planted and make Earth greener
--
 
 # Contribution Guidelines 🙂
 
