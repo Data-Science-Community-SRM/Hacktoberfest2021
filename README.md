@@ -12,12 +12,12 @@
 <br>
 
 <h1>
- What is Hacktoberfest 2020? 
+ What is Hacktoberfest 2021? 
 </h1>
 <p>
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
 
-During the entire month of October 2020, all you have to do is contribute to any open source project with the hacktoberfest tag and open at least 4 pull requests which follow the [Hacktoberfest guidelines](https://hacktoberfest.digitalocean.com/hacktoberfest-update?updated). It can be any project mentioned above and you can contribute in any way possible. It can be a be a bug fix, optimisation, feature addition or even a documentation enhancement!
+During the entire month of October 2021, all you have to do is contribute to any open source project with the hacktoberfest tag and open at least 4 pull requests which follow the [Hacktoberfest guidelines](https://hacktoberfest.digitalocean.com/hacktoberfest-update?updated). It can be any project mentioned above and you can contribute in any way possible. It can be a be a bug fix, optimisation, feature addition or even a documentation enhancement!
 
 If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
 
@@ -68,6 +68,21 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 <table align="center">
 <tr align="center">
 
+ <td>
+
+Rakesh J
+
+<p align="center">
+<img src = "https://github.com/stagnito.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/stagnito"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/rakesh-j-35174618b">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+ 
 <td>
 
 Hritik Bhandari
