@@ -128,3 +128,5 @@ Gayathri Seetharaman
 </td>
 </tr>
 </table>
+
+<img src="Hacktoberfest2021footer.jpg" width="90%"/></p>
