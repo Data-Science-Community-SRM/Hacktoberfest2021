@@ -129,4 +129,4 @@ Gayathri Seetharaman
 </tr>
 </table>
 
-<img src="Hacktober2021footer.png" width="90%"/></p>
+<img src="Hacktober2021footer.png" width="110%"/></p>
